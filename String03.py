@@ -6,4 +6,8 @@ def main():
     Returns:
         str: return answer.
     """
-    return 
+    character = "*"
+    return character * 5
+
+# Example usage
+print(main())
